@@ -1,0 +1,13 @@
+C:\Users\jdmlm\source\repos\alfonso\alfonso\bin\Debug\netcoreapp3.1\alfonso.exe
+C:\Users\jdmlm\source\repos\alfonso\alfonso\bin\Debug\netcoreapp3.1\alfonso.deps.json
+C:\Users\jdmlm\source\repos\alfonso\alfonso\bin\Debug\netcoreapp3.1\alfonso.runtimeconfig.json
+C:\Users\jdmlm\source\repos\alfonso\alfonso\bin\Debug\netcoreapp3.1\alfonso.runtimeconfig.dev.json
+C:\Users\jdmlm\source\repos\alfonso\alfonso\bin\Debug\netcoreapp3.1\alfonso.dll
+C:\Users\jdmlm\source\repos\alfonso\alfonso\bin\Debug\netcoreapp3.1\alfonso.pdb
+C:\Users\jdmlm\source\repos\alfonso\alfonso\obj\Debug\netcoreapp3.1\alfonso.csprojAssemblyReference.cache
+C:\Users\jdmlm\source\repos\alfonso\alfonso\obj\Debug\netcoreapp3.1\alfonso.AssemblyInfoInputs.cache
+C:\Users\jdmlm\source\repos\alfonso\alfonso\obj\Debug\netcoreapp3.1\alfonso.AssemblyInfo.cs
+C:\Users\jdmlm\source\repos\alfonso\alfonso\obj\Debug\netcoreapp3.1\alfonso.csproj.CoreCompileInputs.cache
+C:\Users\jdmlm\source\repos\alfonso\alfonso\obj\Debug\netcoreapp3.1\alfonso.dll
+C:\Users\jdmlm\source\repos\alfonso\alfonso\obj\Debug\netcoreapp3.1\alfonso.pdb
+C:\Users\jdmlm\source\repos\alfonso\alfonso\obj\Debug\netcoreapp3.1\alfonso.genruntimeconfig.cache
