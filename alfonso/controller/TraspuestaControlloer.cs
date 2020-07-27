@@ -34,6 +34,7 @@ namespace alfonso.controller
             borrarConsole();
             MostrarMatrizInicial(); // con esta funcion mostramos los elementos que contiene la matrizInicial
             llenarMatrizTraspuesta(); //con esta funcion llenamos la matrizTraspuesta
+            MostrarMatrizTraspuesta(); //Muestra los elementos que contiene la matrizTradpuesta
         }
 
         private void MostrarMatrizInicial()
@@ -43,9 +44,9 @@ namespace alfonso.controller
             {
                 for (int columna = 0; columna < c.Columna; columna++)
                 {
-                    Console.Write(" "+this.matrizInicial[fila, columna]);
+                    Console.Write(" "+this.matrizInicial[fila, columna]);//mostrar elemento
                 }
-                Console.WriteLine();
+                Console.WriteLine();//salto de linea
             }
         }
 
@@ -61,8 +62,6 @@ namespace alfonso.controller
                     matrizTraspuesta[col,fila] = matrizInicial[fila, col];
                 }
             }
-
-            MostrarMatrizTraspuesta(); //Muestra los elementos que contiene la matrizTradpuesta
         }
 
         private void MostrarMatrizTraspuesta()
@@ -72,9 +71,9 @@ namespace alfonso.controller
             {
                 for (int columna = 0; columna < c.Fila; columna++)
                 {
-                    Console.Write(" " + this.matrizTraspuesta[fila, columna]);
+                    Console.Write(" " + this.matrizTraspuesta[fila, columna]);//mostrar elemento
                 }
-                Console.WriteLine();
+                Console.WriteLine();//salto de linea
             }
         }
 
