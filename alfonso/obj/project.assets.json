@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jdmlm\\source\\repos\\alfonso\\alfonso\\alfonso.csproj",
+      "projectUniqueName": "C:\\Users\\jdmlm\\OneDrive\\Documentos\\GitHub\\c_sharp_matriz_traspuesta\\alfonso\\alfonso.csproj",
       "projectName": "alfonso",
-      "projectPath": "C:\\Users\\jdmlm\\source\\repos\\alfonso\\alfonso\\alfonso.csproj",
+      "projectPath": "C:\\Users\\jdmlm\\OneDrive\\Documentos\\GitHub\\c_sharp_matriz_traspuesta\\alfonso\\alfonso.csproj",
       "packagesPath": "C:\\Users\\jdmlm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jdmlm\\source\\repos\\alfonso\\alfonso\\obj\\",
+      "outputPath": "C:\\Users\\jdmlm\\OneDrive\\Documentos\\GitHub\\c_sharp_matriz_traspuesta\\alfonso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jdmlm\\AppData\\Roaming\\NuGet\\NuGet.Config",

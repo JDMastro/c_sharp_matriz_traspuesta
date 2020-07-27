@@ -21,6 +21,10 @@ namespace alfonso
 
             TraspuestaControlloer c = new TraspuestaControlloer(fila, col); // inicializamos TrapuestaController y le pasamos por parametros la fila y la columna
             c.llenarMatriz();
+
+
+
+            Console.ReadLine(); // Evitar que la console se cierre
         }
     }
 }
